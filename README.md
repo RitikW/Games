@@ -17,6 +17,8 @@
 
 ## GIFs
 
+Please wait while the Gifs load.
+
 ![(13) J O S H )](https://github.com/RitikW/HyperCasual/assets/47923739/fc360619-d2ee-4b23-83d5-7d37fc997002)
 ![13-JOSH-NEW-FPS-MULTIPLAYER-GAME (1)](https://github.com/RitikW/HyperCasual/assets/47923739/5d79afbf-6f6d-4616-af20-186aa7897ff1)
 ![13-JOSH-Indias-Very-Own-Indie-FP](https://github.com/RitikW/HyperCasual/assets/47923739/cfbc9a97-ec1e-456a-8bb1-581527885044)
@@ -51,6 +53,8 @@ Ball Tap
 
 ## GIFs
 
+Please wait while the Gifs load.
+
 ![giphy (1)](https://github.com/RitikW/HyperCasual/assets/47923739/4cb8d9db-62ea-48e9-b07f-2338d855c798)
 ![giphy (2)](https://github.com/RitikW/HyperCasual/assets/47923739/a6fcd63e-c099-4364-a3e3-6064e2dd2ed4)
 ![giphy (4)](https://github.com/RitikW/HyperCasual/assets/47923739/f5556c67-0e7b-4406-b325-4077d5bb412c)
@@ -78,6 +82,8 @@ Tappy Bottles
 
  ## GIFs
 
+Please wait while the Gifs load.
+
 ![giphy (9)](https://github.com/RitikW/webgltest/assets/47923739/f9a1c694-f051-4e30-8fe6-6f56fcaaf7ce)
 ![giphy (10)](https://github.com/RitikW/webgltest/assets/47923739/f381d4e8-5212-4528-bda2-78cdf467c5d3)
 ![giphy (11)](https://github.com/RitikW/webgltest/assets/47923739/8cc16965-9108-4c11-862d-8516240ab21e)
@@ -102,6 +108,8 @@ Space Thrill
 - The game is fun, challenging, and addictive. How far can you go in this endless coin collection spaceship game?
 
 ## GIFs
+
+Please wait while the Gifs load.
 
 ![giphy (2)](https://github.com/RitikW/HyperCasual/assets/47923739/120b8813-8c17-42a2-83c1-6bc24379dfe2)
 ![giphy (1)](https://github.com/RitikW/HyperCasual/assets/47923739/b89279dc-d123-4387-84b2-cfd1eb1728a5)
@@ -128,6 +136,8 @@ Tuvin
 
 ## GIFs
 
+Please wait while the Gifs load.
+
 ![giphy (13)](https://github.com/RitikW/HyperCasual/assets/47923739/1f9aa731-171f-4b79-aeb7-687d43b943e7)
 ![giphy (12)](https://github.com/RitikW/HyperCasual/assets/47923739/5d48a604-2564-4fb0-bb41-c42fd969a2c5)
 
@@ -151,6 +161,8 @@ Faletas
 - Faletas is a game that will test your reflexes and keep you entertained for hours. How far can you go?
 
 ## GIFs
+
+Please wait while the Gifs load.
 
 ![giphy (4)](https://github.com/RitikW/HyperCasual/assets/47923739/adac700a-4ede-4153-ad91-264b860d7b3c)
 ![giphy (5)](https://github.com/RitikW/HyperCasual/assets/47923739/e42bfdd2-9f53-48d1-9805-7d9156fbe7ef)
@@ -177,6 +189,8 @@ Faletas
 
 ## GIs
 
+Please wait while the Gifs load.
+
 ![giphy (8)](https://github.com/RitikW/HyperCasual/assets/47923739/001fdb89-dfaa-461b-a53c-0c7e614fef74)
 ![giphy (7)](https://github.com/RitikW/HyperCasual/assets/47923739/d24aaf91-e960-4aa5-abc7-26214302850f)
 
@@ -201,6 +215,9 @@ Faletas
 
 
 ## GIFs
+
+Please wait while the Gifs load.
+
 ![giphy (7)](https://github.com/RitikW/HyperCasual/assets/47923739/cf2a3733-3bb7-43ba-b8d5-941fa0eb53db)
 ![giphy (3)](https://github.com/RitikW/HyperCasual/assets/47923739/f87760a4-7aef-4773-aaf4-ece95fcd71b4)
 
@@ -229,6 +246,8 @@ Miksaw Puzzle
 
 ## GIFs
 
+Please wait while the Gifs load.
+
 ![giphy (9)](https://github.com/RitikW/HyperCasual/assets/47923739/a44a7da8-7fef-4e3e-b877-3a6068269f4c)
 ![giphy (8)](https://github.com/RitikW/HyperCasual/assets/47923739/05cb3d2a-bbed-4ab8-817a-a7b5b0a81bbd)
 
@@ -251,6 +270,9 @@ Miksaw Puzzle
 - The game also showcases ads implementation with the help of admob for monetization purposes. The game is simple to play, but hard to master. How high can you score in Stick Master?
 
   ## GIFs
+  
+Please wait while the Gifs load.
+
 ![giphy (3) - Copy](https://github.com/RitikW/HyperCasual/assets/47923739/23fe9904-507f-419a-ab8c-8378c1d63855)
 
 ## Links
