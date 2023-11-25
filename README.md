@@ -1,6 +1,39 @@
-# HyperCausal Games
+# Games
 
 ---
+<details>
+ <summary>
+ J.O.S.H
+ </summary>
+
+## Description
+
+- The game will has two main game modes: team deathmatch, capture the flag. Each mode will have different objectives, rules, and scoring systems. The game has a variety of maps.
+- The maps are designed with Unity’s terrain tools and gaia along with interactive elements, such as doors ,stairs,etc. The maps are integrated with the game logic and UI using Unity’s scene management and scripting systems.
+- The game uses Photon, a popular networking framework for Unity, to enable online multiplayer functionality. It handles the creation and joining of rooms, the synchronization of players and objects and the handling of errors and disconnects.
+- The game has responsive player mechanics and is able to control their character using the on screen keys, and can customize their input settings.
+- The player has to find health packs and ammo crates to replenish them. The player also has a HUD that displays their health, ammo, score, and minimap.
+- The game was made with the team of 5 developers and 2 game artists with designated task. Everyone worked in scrum developement process on a dealine basis
+
+## GIFs
+
+![(13) J O S H )](https://github.com/RitikW/HyperCasual/assets/47923739/fc360619-d2ee-4b23-83d5-7d37fc997002)
+![13-JOSH-NEW-FPS-MULTIPLAYER-GAME (1)](https://github.com/RitikW/HyperCasual/assets/47923739/5d79afbf-6f6d-4616-af20-186aa7897ff1)
+![13-JOSH-Indias-Very-Own-Indie-FP](https://github.com/RitikW/HyperCasual/assets/47923739/cfbc9a97-ec1e-456a-8bb1-581527885044)
+![13-JOSH-Indias-Very-Own-Indie-FP (1)](https://github.com/RitikW/HyperCasual/assets/47923739/735898bb-b2fd-4eb7-a908-ba9a3f5bb19f)
+![13-JOSH-NEW-FPS-MULTIPLAYER-GAME (2)](https://github.com/RitikW/HyperCasual/assets/47923739/f74281db-12c3-4b85-9f57-9027a15bea8c)
+![13-JOSH-NEW-FPS-MULTIPLAYER-GAME](https://github.com/RitikW/HyperCasual/assets/47923739/fde345bb-1562-4390-be19-54a15ed63dcf)
+
+
+
+## Links
+
+[PlayStore](https://play.google.com/store/apps/details?id=in.evstudios.josh)
+
+ </details>
+ 
+---
+
 <details>
  <summary>
 Ball Tap
@@ -25,7 +58,7 @@ Ball Tap
 
 ## Links
 
-[PlayStore Link](https://play.google.com/store/apps/details?id=comelyen.BallTap)
+[PlayStore](https://play.google.com/store/apps/details?id=comelyen.BallTap)
 
  </details>
 
@@ -51,7 +84,7 @@ Tappy Bottles
 
 ## Links
 
-[PlayStore Link](https://play.google.com/store/apps/details?id=comelyen.TappyBottles)
+[PlayStore](https://play.google.com/store/apps/details?id=comelyen.TappyBottles)
 
  </details>
 
@@ -76,7 +109,7 @@ Space Thrill
 
 ## Links
 
-[PlayStore Link](https://play.google.com/store/apps/details?id=comelyen.SpaceThrill)
+[PlayStore](https://play.google.com/store/apps/details?id=comelyen.SpaceThrill)
 
  </details>
 
@@ -100,7 +133,7 @@ Tuvin
 
 ## Links
 
-[PlayStore Link](https://play.google.com/store/apps/details?id=comelyen.Tuvin)
+[PlayStore](https://play.google.com/store/apps/details?id=comelyen.Tuvin)
 
  </details>
 
@@ -125,7 +158,7 @@ Faletas
 
 ## Links
 
-[PlayStore Link](https://play.google.com/store/apps/details?id=comelyen.Faletas)
+[PlayStore](https://play.google.com/store/apps/details?id=comelyen.Faletas)
 
  </details>
 
@@ -149,7 +182,7 @@ Faletas
 
 ## Links
 
-[PlayStore Link](https://play.google.com/store/apps/details?id=comelyen.dribbledown)
+[PlayStore](https://play.google.com/store/apps/details?id=comelyen.dribbledown)
 
  </details>
   
@@ -172,7 +205,7 @@ Faletas
 ![giphy (3)](https://github.com/RitikW/HyperCasual/assets/47923739/f87760a4-7aef-4773-aaf4-ece95fcd71b4)
 
 ## Links
-[PlayStore Link](https://play.google.com/store/apps/details?id=comelyen.GrassSilcer)
+[PlayStore](https://play.google.com/store/apps/details?id=comelyen.GrassSilcer)
 
  </details>
 
@@ -200,7 +233,7 @@ Miksaw Puzzle
 ![giphy (8)](https://github.com/RitikW/HyperCasual/assets/47923739/05cb3d2a-bbed-4ab8-817a-a7b5b0a81bbd)
 
 ## Links
-[PlayStore Link](https://play.google.com/store/apps/details?id=comelyen.MiksawPuzzles)
+[PlayStore](https://play.google.com/store/apps/details?id=comelyen.MiksawPuzzles)
 
  </details>
 
@@ -221,7 +254,7 @@ Miksaw Puzzle
 ![giphy (3) - Copy](https://github.com/RitikW/HyperCasual/assets/47923739/23fe9904-507f-419a-ab8c-8378c1d63855)
 
 ## Links
-[PlayStore Link](https://play.google.com/store/apps/details?id=comelyen.StickMaster)
+[PlayStore](https://play.google.com/store/apps/details?id=comelyen.StickMaster)
 
  </details>
 
@@ -235,7 +268,7 @@ Miksaw Puzzle
 ## Description
 ## GIFs
 ## Links
-[PlayStore Link](https://play.google.com/store/apps/details?id=comelyen.roadtwister)
+[PlayStore](https://play.google.com/store/apps/details?id=comelyen.roadtwister)
 
  </details>
 
@@ -250,7 +283,7 @@ Miksaw Puzzle
 ## GIFs
 ## Links
 
-[PlayStore Link](https://play.google.com/store/apps/details?id=comelyen.Brizzinga)
+[PlayStore](https://play.google.com/store/apps/details?id=comelyen.Brizzinga)
 
  </details>
  
